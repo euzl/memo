@@ -39,8 +39,8 @@
 ## 정렬
 - 안정 정렬
 	- 버블 정렬
-	- 삽입 정렬
-	- 병합 정렬
+	- [삽입 정렬](https://gmlwjd9405.github.io/2018/05/06/algorithm-insertion-sort.html) - `O(N^2)`
+	- [병합 정렬](https://zeddios.tistory.com/38) - `O(NlogN)`
 - 불안정 정렬
 	- 선택 정렬
 	- 힙 정렬
