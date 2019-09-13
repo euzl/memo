@@ -1,6 +1,6 @@
 # MEMO
 To remember basic concepts
-기본 개념을 기억하기 위해 멤..오..✍️
+기본 개념을 기억하기 위해 멤..오..✍️ + 좋은 참고자료들
 
 ## 목록
 - [\[C++\] 문제풀이하면서 사용된 기본 개념](https://github.com/euzl/2019-1o1-project/blob/master/basic_note.md)
@@ -19,3 +19,4 @@ To remember basic concepts
 - [머신러닝 개념 소개 및 kNN 알고리즘 소개](https://bcho.tistory.com/1009?category=555440)
 - [YOLO 데이터(이미지) 학습](https://pgmrlsh.tistory.com/6)
 - [\[취업특강\] IT분야에서 행복하게 일하기 - SW 개발자를 중심으로](https://www.slideshare.net/raima71/it-sw?next_slideshow=2)
+- [\[SOSCON 2017\] 주니어 개발자 5000명, 개발 해서 남 주자](https://www.slideshare.net/jayjin0427/soscon-2017-5000-81227938%20)
