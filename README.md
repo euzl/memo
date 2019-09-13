@@ -7,7 +7,8 @@ To remember basic concepts
 - [\[C++\] 문제풀이하며 얻은 TIP](https://github.com/euzl/2019-1o1-project/issues)
 - [\[Python\] 헷갈리는 파이썬 개념들](https://github.com/euzl/py4e/blob/master/basic_note.md)
 - [\[DL\] 딥러닝에서 Calssification과 Object detection의 차이는 무엇일까?](https://github.com/Petpeotalk/petpeotalk-labs/blob/master/01_difference_between_classification_and_object_detection.md)
-<br>
+ <br>
+ 
 ## 참고하면 좋은... 모음 (기준無)
 - [신입 개발자 생활백서 \[개정판\]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
 - [\[번역\]GitHub / Commits / 커밋 메시지로 이슈 닫기](http://minsone.github.io/git/github-commits-closing-issues-via-commit-messages)
