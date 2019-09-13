@@ -9,6 +9,7 @@ To remember basic concepts
 - [\[DL\] 딥러닝에서 Calssification과 Object detection의 차이는 무엇일까?](https://github.com/Petpeotalk/petpeotalk-labs/blob/master/01_difference_between_classification_and_object_detection.md)
             
 ## 참고하면 좋은... 모음 (기준無)
+- [신입 개발자 생활백서 \[개정판\]](https://www.slideshare.net/jayjin0427/ss-71896768%20)
 - [\[번역\]GitHub / Commits / 커밋 메시지로 이슈 닫기](http://minsone.github.io/git/github-commits-closing-issues-via-commit-messages)
 - [What’s easy/hard in AI & Computer Vision these days?](https://medium.com/@CharlesOllion/whats-easy-hard-in-ai-computer-vision-these-days-e7679b9f7db7)
 - [나는 어떻게 개발 공부를 했나, 1편](https://jbee.io/essay/how_do_i_study_1/)
@@ -17,3 +18,4 @@ To remember basic concepts
 - [6개월간의 TIL 회고 (꾸준히 하면 좋은 일이 생긴다)](https://wayhome25.github.io/til/2017/08/14/TIL-for-6-months/)
 - [머신러닝 개념 소개 및 kNN 알고리즘 소개](https://bcho.tistory.com/1009?category=555440)
 - [YOLO 데이터(이미지) 학습](https://pgmrlsh.tistory.com/6)
+- [\[취업특강\] IT분야에서 행복하게 일하기 - SW 개발자를 중심으로](https://www.slideshare.net/raima71/it-sw?next_slideshow=2)
