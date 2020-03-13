@@ -7,6 +7,7 @@ To remember basic concepts
 - [\[C++\] 문제풀이하며 얻은 TIP](https://github.com/euzl/2019-1o1-project/issues)
 - [\[Python\] 헷갈리는 파이썬 개념들](https://github.com/euzl/py4e/blob/master/basic_note.md)
 - [\[DL\] 딥러닝에서 Calssification과 Object detection의 차이는 무엇일까?](https://github.com/Petpeotalk/petpeotalk-labs/blob/master/01_difference_between_classification_and_object_detection.md)
+- [\[React\] 기억해야될 개념](https://github.com/euzl/memo/blob/master/react_study.md)
  <br>
  
 ## 참고하면 좋은... 모음 (기준無)
