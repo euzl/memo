@@ -38,7 +38,11 @@ ex) Angular, Ember, Vue, React 등. 각각의 철학과 추구하는 방향이 �
 	create-react-app hello-react
 	```
 	/Users/euzl/ 의 하위폴더 `hello-react`로 생성 (위에서 설정한 이름)
-
+- 실행 (MAC)
+	```
+	cd hello-react
+	yarn start
+	```
 - `App.js` 는 컴포넌트에 해당하는 코드. (함수형과 클래스형으로 나뉜다. 차이는 4번에서~)
 	- `import` 작업 : webpack 덕분에 가능
 	- ⭐️클래스형태의 컴포넌트에는 꼭 render 함수(내부에서 JSX를 return하는) 필요
