@@ -34,7 +34,7 @@ ex) Angular, Ember, Vue, React 등. 각각의 철학과 추구하는 방향이 �
 
 - 설치 (MAC)
 	```
-	npm install -g create-react app
+	npm install -g create-react-app
 	create-react-app hello-react
 	```
 	/Users/euzl/ 의 하위폴더 `hello-react`로 생성 (위에서 설정한 이름)
