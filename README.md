@@ -23,3 +23,4 @@ To remember basic concepts
 - [\[취업특강\] IT분야에서 행복하게 일하기 - SW 개발자를 중심으로](https://www.slideshare.net/raima71/it-sw?next_slideshow=2)
 - [\[SOSCON 2017\] 주니어 개발자 5000명, 개발 해서 남 주자](https://www.slideshare.net/jayjin0427/soscon-2017-5000-81227938%20)
 - [당신이 몰랐던 커리어의 비밀](https://brunch.co.kr/@haneulalice/69#comment)
+- [MVC Pattern 이란? - 개념 및 자바 예제](https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/)
