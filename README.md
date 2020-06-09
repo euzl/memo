@@ -24,3 +24,4 @@ To remember basic concepts
 - [\[SOSCON 2017\] 주니어 개발자 5000명, 개발 해서 남 주자](https://www.slideshare.net/jayjin0427/soscon-2017-5000-81227938%20)
 - [당신이 몰랐던 커리어의 비밀](https://brunch.co.kr/@haneulalice/69#comment)
 - [MVC Pattern 이란? - 개념 및 자바 예제](https://hanee24.github.io/2018/02/14/what-is-mvc-pattern/)
+- [C언어 파일입출력 한글 깨짐 문제](https://swimminglab.tistory.com/73)
